@@ -1,4 +1,4 @@
-**Instructions**
+### Instructions
 
 **1. Database Setup:**
    - This project is implemented to run on a localhost environment, utilizing a MySQL database managed through phpMyAdmin.
